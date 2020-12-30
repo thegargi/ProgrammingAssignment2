@@ -60,3 +60,5 @@ cacheSolve <- function(x, ...) {
   ## Return the matrix
   m
 }
+
+$ git commit -m "edit readme and add new.md"
